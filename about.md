@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+See Ajaveeb sai loodud aine "IT eetilised, sotsiaalsed ja professionaalsed aspektid" (koodiga I008) raames, kodutööde ja muu sarnase postitamiseks.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+o<:8(@@@)~~~
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kask.martin@gmail.com](mailto:kask.martin@gmail.com)
