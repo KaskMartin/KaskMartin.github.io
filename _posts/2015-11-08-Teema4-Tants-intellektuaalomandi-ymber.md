@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teema4 - Tants intellektuaalomandi ümber - The Case for Copyright Reform
+---
 
 Neljandaks kodutööks anti meile lugeda teos "The Case for Copyright Reform". Teoses on välja toodud punktid, mida peaks muutma autoriõiguste seadusandluses, et seadusandlus oleks kaasaegne. Järgnevalt toon välja antud ettepanekud punkti kaupa ning annan neile omapoolse hinnangu:
 
