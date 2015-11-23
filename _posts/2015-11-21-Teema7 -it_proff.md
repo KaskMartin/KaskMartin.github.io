@@ -10,8 +10,9 @@ nimekirjas esimene ning tõenäoliselt ka tähtsuse järjekorras esimeste rinnas
 
 **Profesionaalsus** 
 > "L6petasin just code-academy JavaScripti kursuse - Yo mees ma siin
-> nyyd k6wa h2kker, viska pappi!"
-> - Eesti IT "proff"
+nyyd k6wa h2kker, viska pappi!"
+*Eesti IT "proff"*
+
 
 Nali naljaks aga reaalses elus sellise suhtumisega kaugele ei jõua. Mõnes mõttes kuulub profesioonaalsus esimese omaduse alla, kuna tegu on ikkagist sotsiaalse oskusega, kuid tahtsin selle siinkohal veel eraldi välja tuua, et selle tähtsust rõhutada. Sa võid olla küll väga meeldiv isik ja osav koodikirjutaja aga lisaks pead sa säilitama teatud distantsi enda ja kliendi vahel ning säilitama "rahu" igas olukorras. Kannatlikkus ning ametliku keelepruugi kasutamine peaks iga IT-profi arsenalis olema. Ei saa ju võtta tõsiselt töötajat, kes hakkab kliendi isklike probleemide üle nalja viskama, rikub konfidentsiaalsust või lihtsalt vihastab ja paugub, kui kliendil midagi selgusetuks jääb. 
 
