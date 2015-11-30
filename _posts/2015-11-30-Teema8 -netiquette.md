@@ -1,0 +1,12 @@
+---
+layout: post
+title: Teema8 - Võrgusuhtluse eripäradest
+---
+Kaheksanda kirjatüki ülesandeks oli valida üks kümnest käsust Virginia Shea raamatust  "[Netiquette](http://www.albion.com/netiquette/book/0963702513p35.html)". Valisin nende seast kõige esimese:
+Rule 1: Remember the human
+----------------
+*Reegel 1: Ole inimene/Mäleta inimest*
+
+Suhteliselt lihtne soovitus, mis esialgu tundub ebavajalik, kuid teinekord arvuti taga istudes ning kommentaare lugedes tekib küll tunne, et kuskil pimedas serveriruumi nurgas istub kari pärdikuid, kes roppuste kogumikust teksti internetti kopeerivad. Näiteks meediaväljaannete kommentaariumites on olemas küll hääletasmissüsteemid, ühel kujul või teisel. Kahjuks aga ei piisa nendest, et "terasid sõkaldest" eraldada. Seega kuigi üldiselt tuleb arvestada, et su vastas istub kuskil inimene, siis mõnikord on parim, mis sellises situatsioonis teha, lihtsalt mõnda teksti ignoreerida. Sama loomulik käitumine on ka näiteks ühistranspordis pidevalt vadistava natuke hullunud pilguga vanainimese puhul - ilmselgelt ei ole temaga mõtet dialoogi astuda või teda milleski veenda proovida - viisakast distantsi hoidmisest piisab. Ignoreerimine tähendab aga et jääb lugemata ka need kullaterad mis porimeres vedeleva, mis tapab omakorda argumenteeritud ja konstruktiivse diskussiooni. Kahjuks on viimasel ajal kombeks saanud, et just kõige huvitavamate ja päevakajalistemate teemade juures on nõnda rohkelt seda mustemat teksti. Ja mõnikord tekib tunne et interneti trollide ülesanne ongi suhtlust juba eos tappa, väga huvitav oleks tead kes neid trolle päriselus "toidavad". Facebookis on õnneks vestulsed enam-vähem mitte-anonüümsed ning ebavajalike inimeste ning postituste blokeerimine hulga hõlpsam, kuid samas kõikidest käimasolevatest diskusioonidest näeb ainult väga pisikest osakest.
+
+Kui võtta aga interneti teel suhtlust laiemalt siis mida veel võiks meeles pidada on, et inimesed eksivad! Kui silmast-silma kokkusaades inimesega vestelda, on meil niipalju abivahendeid millega tegelikult ennast mõistetavaks teha ning mida ei pruugi esialgu tähelegi panna: hääletoon, kehahoiak, silmside ning käte žestid on vaid mõned mitte-verbaalse suhtluse osad. Kogu selle informatsiooni kokkupanemine teeb teisest inimesest arusaamise palju lihtsamaks ning väärarusaamade tekkimine on harvem. Kirjalikus tekstis võib aga teinekord vale koma asetus või kirjaviga muuta kogu sõnumi sisu. Seega peaks ennem kellegi kritiseerimist hoolikalt mõtlema ega ole tegu pelga inimliku eksitusega.
