@@ -13,4 +13,6 @@ See Ajaveeb sai loodud aine "IT eetilised, sotsiaalsed ja professionaalsed aspek
 
   Vihjeid, kuidas enda postitusi paremini kirjutada leiab siit:
   [Atlassian Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+  Abivahend postituste formaatimisel: [StackEdit](https://stackedit.io/editor)
   
